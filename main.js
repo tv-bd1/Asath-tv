@@ -35,7 +35,7 @@ let player;
 let _allChannels = [];
 let _currentFilter = 'All';
 let isFirstLoad = true;
-const targetM3U = 'https://raw.githubusercontent.com/tvbd/m3uplayer/refs/heads/main/m3u/nexgen.m3u?v=' + Date.now();
+const targetM3U = 'https://www.ashtv.com.bd/server/iptv.m3u?v=' + Date.now();
 let adIntervalTimer; 
 let userRef; 
 let manualAdTimeout;
